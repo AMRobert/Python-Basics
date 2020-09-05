@@ -1,0 +1,11 @@
+Name = input("What is Your Name?\n")
+Age = int(input("What's your Age?\n"))
+Father_Name = input("What is your Father's Name?\n")
+Mother_Name = input("What is your Mother's Name?\n")
+Contact = int(input("Contact No \n"))
+print("Your Name :",Name)
+print("Your Age :",Age)
+print("Your Father Name:",Father_Name)
+print("Your Mother Name:",Mother_Name)
+print("Contact:",Contact)
+          
